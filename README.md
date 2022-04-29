@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://github.com/Hariharanhariharan/File-Sharing-HariTv-Bot) **
 
 ### Features
 - Fully customisable.
